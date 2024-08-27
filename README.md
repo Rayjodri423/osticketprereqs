@@ -18,11 +18,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Item 1, Creating VM and Resource Group on Azure
+- Item 2, HeidiSQL
+- Item 3, osTicket Install
+- Item 4, PHP
+- Item 5, PHP Manager For IIS
 
 <h2>Installation Steps</h2>
 
@@ -30,7 +30,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/nqcQpzP.png"/>
 </p>
 <p>
-Enabliong IIS management features for controlling and monitoring a web service.
+Enabling IIS management features for controlling and monitoring a web service.
 </p>
 <br />
 
