@@ -19,10 +19,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 - Item 1, Creating VM and Resource Group on Azure
-- Item 2, HeidiSQL
-- Item 3, osTicket Install
-- Item 4, PHP
-- Item 5, PHP Manager For IIS
+- Item 2, Remote Desktop
+- Item 3, HeidiSQL
+- Item 4, osTicket Install
+- Item 5, PHP
+- Item 6, PHP Manager For IIS
 
 <h2>Installation Steps</h2>
 
